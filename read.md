@@ -1,6 +1,6 @@
 # hello-world
 
-hi,this is usocool's first edit and this is the second branch
+hi,this is usocool's first project and this is the second branch
 
 
 
